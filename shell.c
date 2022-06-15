@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 
 unsigned int sig_flag;
 
