@@ -3,7 +3,7 @@ set -e
 
 cd "$(dirname "$(readlink -f "$BASH_SOURCE")")/.."
 
-# see also ".mailmap" for how email addresses and names are deduplicated
+# see also ".mailmap" for how email addresses and names are duplicated
 
 {
 	cat <<-'EOH'
